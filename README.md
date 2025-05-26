@@ -2,9 +2,7 @@
 
 I am a Senior Data Scientist with ARC Resources in Calgary, Alberta.
 
-My journey into data science has been a meandering one. I hold a B.E. in Electronics Engineering from the University of Mumbai (India), an M.Sc. in Medical Imaging from the University of Surrey (U.K.), and an M.A.Sc. in Electrical & Computer Engineering from the University of British Columbia (Canada).
-
-Following my academic pursuits, I spent some time developing improved algorithms for treating atrial fibrillation at Toronto General Hospital's Cardiology Department. This work led to several publications and a couple of patents.
+My journey into data science has been a meandering one. I completed an M.A.Sc. in Electrical & Computer Engineering from the University of British Columbia (Canada), following which, I spent some time developing improved algorithms for treating atrial fibrillation at Toronto General Hospital's Cardiology Department. This work led to several publications and a couple of patents.
 
 Before my current role, I worked as a Risk Analyst at the Bank of Montreal. Subsequently, I served as a Data Scientist at Teknobuilt, Canada, tackling various data science challenges within the construction sector.
 
