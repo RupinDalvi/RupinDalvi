@@ -1,10 +1,3 @@
-# Rupin Dalvi
-🔬 Senior Data Scientist | Really like Machine Learning & Deep Learning | Interested in applying AI to diverse domains from oil and gas (professionally) to healthcare to finance and energy.
-
-ARC Resources | Calgary, AB, Canada
-
----
-
 ### Hi there 👋
 
 I am a Senior Data Scientist with ARC Resources in Calgary, Alberta.
